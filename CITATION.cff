@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this skill in your research or AI agent workflows, please cite it as below."
+authors:
+  - family-names: "Gao"
+    given-names: "Sheng"
+    alias: "Longgekutta"
+title: "skill-taxonomy-arbiter: Autonomous Software Archetype Decision Arbiter Skill for AI Agents"
+version: 1.0.0
+date-released: 2026-09-27
+url: "https://github.com/Longgekutta/skill-taxonomy-arbiter"
+repository-code: "https://github.com/Longgekutta/skill-taxonomy-arbiter"
+keywords:
+  - agent-skill
+  - taxonomy
+  - architecture-decision
+  - deterministic-sop
