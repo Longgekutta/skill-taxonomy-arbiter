@@ -75,3 +75,12 @@ flowchart LR
 5. **最小必要形态理由（MVA Rationale）**
 6. **过度设计反模式预警（Over-engineering Alert）**
 7. **形式化推演逻辑链条**
+
+---
+
+## 🔗 后续工程协同链路 (Downstream Engineering Chain)
+
+在完成形态裁决后，严禁直接盲目编写代码，必须协同后续工业母机完成全阶工程闭环：
+1. **技术栈与多语言选型**：调用 `tool-stack-optima` 求解四层多语言黄金搭档（内核-中枢-胶水-门面）与影子沙盒基准；
+2. **七阶生命周期受控执行**：调用 `tool-lifecycle-harness` 驱动 G1~G7 状态机（红灯冻结、事务快照回滚、机器独立证据门禁、ADR 账本）；
+3. **一体化全链路引导**：调用专属特种技能 `skill-agentic-engineering-chain` 串联执行。
